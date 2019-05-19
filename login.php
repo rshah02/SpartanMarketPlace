@@ -38,7 +38,8 @@
                 if($_POST['username']==$username && $_POST['password']==$password){
                     $_SESSION['loggedin']='true';
                     ini_set('session.gc_maxlifetime',  300);
-                    header("Location:index.php");
+                   // header("Location:index.php");
+                    header("Location: {$_SERVER['HTTP_REFERER']}");
                 }
             }
     ?>

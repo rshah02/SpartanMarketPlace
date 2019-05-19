@@ -339,7 +339,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                   </a>
                 </div>
                 <div class="col-4 gal-img">
-                  <a href="http://nerdythread.com"
+                  <a href="vaibhav.php"
                     ><img
                       src="images/vaibhav.png"
                       alt="news image"
@@ -349,7 +349,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                   </a>
                 </div>
                 <div class="col-4 gal-img">
-                  <a href="https://test-remains.000webhostapp.com/Coffee.php"
+                  <a href="prachi.php"
                     ><img
                       src="images/prachi.png"
                       alt="news image"
